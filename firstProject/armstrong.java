@@ -2,7 +2,7 @@ package demo;
 
 public class armstrong {
 	
-	
+		// Main method to get the armstrong number verifiaction
 		public static void main(String[] args) {
 			 int num = 1635, rem, digit = 0, sum = 0; 
 	          
