@@ -1,6 +1,6 @@
-package demo;
 
-public class armstrong {
+
+public class Armstrong {
 	
 		// Main method to get the armstrong number verification
 		public static void main(String[] args)
